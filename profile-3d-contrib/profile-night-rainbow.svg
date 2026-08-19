@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">3D contribution graph placeholder</title>
+  <desc id="desc">Run the included GitHub Actions workflow once to replace this preview with live contribution data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#15162f"/></linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#bg)" stroke="#334155"/>
+  <g transform="translate(75 60)">
+    <g transform="translate(0 54)"><path d="M0 15L24 4L47 15L23 27Z" fill="url(#top)"/><path d="M0 15L23 27V57L0 45Z" fill="#164e63"/><path d="M23 27L47 15V45L23 57Z" fill="#312e81"/></g>
+    <g transform="translate(55 34)"><path d="M0 15L24 4L47 15L23 27Z" fill="url(#top)"/><path d="M0 15L23 27V77L0 65Z" fill="#164e63"/><path d="M23 27L47 15V65L23 77Z" fill="#312e81"/></g>
+    <g transform="translate(110 13)"><path d="M0 15L24 4L47 15L23 27Z" fill="url(#top)"/><path d="M0 15L23 27V98L0 86Z" fill="#164e63"/><path d="M23 27L47 15V86L23 98Z" fill="#312e81"/></g>
+    <g transform="translate(165 45)"><path d="M0 15L24 4L47 15L23 27Z" fill="url(#top)"/><path d="M0 15L23 27V66L0 54Z" fill="#164e63"/><path d="M23 27L47 15V54L23 66Z" fill="#312e81"/></g>
+    <g transform="translate(220 26)"><path d="M0 15L24 4L47 15L23 27Z" fill="url(#top)"/><path d="M0 15L23 27V85L0 73Z" fill="#164e63"/><path d="M23 27L47 15V73L23 85Z" fill="#312e81"/></g>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="405" y="106" fill="#f8fafc" font-size="25" font-weight="800">3D CONTRIBUTION GRAPH</text>
+    <text x="405" y="139" fill="#94a3b8" font-size="15">Run the included workflow once to load live GitHub activity.</text>
+    <text x="405" y="175" fill="#67e8f9" font-size="13" font-weight="700" letter-spacing="1.2">ACTIONS → GITHUB-PROFILE-3D-CONTRIB → RUN WORKFLOW</text>
+  </g>
+</svg>
